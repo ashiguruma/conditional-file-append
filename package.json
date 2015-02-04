@@ -1,7 +1,7 @@
 {
   "name": "conditional-file-append",
   "version": "0.1.0",
-  "description": "",
+  "description": "Append text to a file on the condition that a regex isn't matched",
   "main": "index.js",
   "bin": {
     "condappend": "./index.js"
