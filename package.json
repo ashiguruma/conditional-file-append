@@ -1,0 +1,28 @@
+{
+  "name": "conditional-file-append",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "condappend": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashiguruma/conditional-file-append.git"
+  },
+  "keywords": [
+    "file",
+    "append",
+    "regex"
+  ],
+  "author": {
+    "name": "Tom Loudon",
+    "email": "tomloudon@gmail.com",
+    "url": "http://betweentwobrackets.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashiguruma/conditional-file-append/issues"
+  },
+  "homepage": "https://github.com/ashiguruma/conditional-file-append"
+}
