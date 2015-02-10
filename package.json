@@ -1,6 +1,6 @@
 {
   "name": "conditional-file-append",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Append text to a file on the condition that a regex isn't matched",
   "main": "index.js",
   "bin": {
@@ -17,8 +17,8 @@
   ],
   "author": {
     "name": "Tom Loudon",
-    "email": "tomloudon@gmail.com",
-    "url": "http://betweentwobrackets.com"
+    "url": "http://betweentwobrackets.com",
+    "email":"tomloudon@gmail.com"
   },
   "license": "MIT",
   "bugs": {
